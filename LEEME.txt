@@ -1,0 +1,9 @@
+La Casa de los Zombis - modo online para todo el mundo
+
+Archivos:
+  server.js        -> el servidor (no lo toques)
+  package.json     -> lista de lo que necesita el servidor
+  public/index.html -> tu juego, ya preparado para jugar online
+
+Pasos (resumen): sube estos archivos a GitHub y publícalos en Render.com.
+El enlace que te dé Render es el que compartes con todos.
